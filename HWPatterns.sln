@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWPatterns", "HWPatterns\HWPatterns.csproj", "{ACD16B72-333F-4F95-AB37-4223C992FD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD16B72-333F-4F95-AB37-4223C992FD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD16B72-333F-4F95-AB37-4223C992FD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD16B72-333F-4F95-AB37-4223C992FD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD16B72-333F-4F95-AB37-4223C992FD44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E737BFD-7EEC-4103-93E3-8E14208B3144}
+	EndGlobalSection
+EndGlobal
